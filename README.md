@@ -1,1 +1,1 @@
-# mongo-charts-ui
+This is react project which renders mongocharts using "jwt-mongo-chart" library.
